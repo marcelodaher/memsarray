@@ -1,0 +1,3 @@
+Id;Reference;Package;Quantity;Manufacturer;Manufacturer Part Number;Note
+1;MIC1-MIC15;HCLGA (3 x 4) 4LD ;12;ST-Microelectronics;MP34DT01;
+2;C1-C15;0805(in);12;;;0805 X7R 1uF 16V
