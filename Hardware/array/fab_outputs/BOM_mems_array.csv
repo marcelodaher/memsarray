@@ -1,0 +1,7 @@
+Id;Reference;Package;Quantity;Manufacturer;Manufacturer Part Number;Note
+2;C101,C103,C201,C301,C401,C501,C601;0805(in);7;;;Capacitor 0805 1uF X7R 16V
+3;C102;8mm x 10mm;1;;;Eletrolitic Capacitor 100uF 8mm x10mm 35V
+5;U101;TSSOP-20_4.4x6.5mm_Pitch0.65mm;1;Texas Instruments;SN74AHC244PWR;
+6;U102;SOP-20_600x175_Pitch0.635;1;Texas Instruments;SN74CBTLV3245ADBQR;
+7;U103;SOTFL-5_160x50_Pitch0.5;1;Texas Instruments;SN74LVC1G04DRLR;
+9;U201,U301,U401,U501,U601;TSSOP-16_4.4x5mm_Pitch0.65mm;5;Texas Instruments;SN74CBT3251PWR;
